@@ -1,2 +1,2 @@
 # findnerd
-ut community site
+it community site
